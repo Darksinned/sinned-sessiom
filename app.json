@@ -4,7 +4,7 @@
     "description": "Web Session Generator",
     "logo": "https://files.catbox.moe/d21l4n.jpg",
     "repository": "https://github.com/Darksinned/sinned-session",
-    "keywords": ["Malvin-Tech"],
+    "keywords": ["SINNED-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
     "env": {      
